@@ -20,6 +20,7 @@ const links = [
     name: "Create",
     href: "/dashboard/create",
     icon: PlusSquare,
+    hideOnMobile: false,
   },
 ];
 
